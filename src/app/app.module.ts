@@ -9,6 +9,7 @@ import { UserListComponent } from './user-list/user-list.component';
 // import { NavbarComponent } from './navbar/navbar.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { CartComponent } from './cart/cart.component';
+import { ChartsComponent } from './charts/charts.component';
 
 
 @NgModule({
@@ -20,6 +21,7 @@ import { CartComponent } from './cart/cart.component';
     
     DashboardComponent,
          CartComponent,
+         ChartsComponent,
   
   ],
   imports: [
